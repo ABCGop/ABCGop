@@ -1,10 +1,9 @@
 # 👋 Hi, I'm [Vishesh Gangwar]
 
 ## 🚀 About Me
-- 🌱 Currently learning: **[Your Tech/Skills]**
+- 🌱 Currently learning: **[Web Development]**
 - 💻 Interested in: **Open Source, Web Development, AI/ML, etc.**
 - 🎯 Goal: **Build impactful projects and share knowledge**
-- ⚡ Fun fact: **[Something unique about you]**
 
 ---
 
