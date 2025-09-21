@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Vishesh Gangwar]
+# 👋 Hi, I'm Vishesh Gangwar
 
 ## 🚀 About Me
 - 🌱 Currently learning: **[Web Development]**
